@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions for activity_main.xml -->
+    <dimen name="activity_main_padding">8dp</dimen>
+    <dimen name="activity_main_progress_margin">16dp</dimen>
+    <dimen name="activity_main_progress_size">48dp</dimen>
+
+    <!-- Dimensions for item_layout.xml -->
+    <dimen name="item_layout_margin">8dp</dimen>
+    <dimen name="item_layout_corner_radius">8dp</dimen>
+    <dimen name="item_layout_image_height">160dp</dimen>
+    <dimen name="item_layout_text_margin">7dp</dimen>
+    <dimen name="item_layout_text_padding_top">9dp</dimen>
+</resources>
